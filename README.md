@@ -3,7 +3,12 @@
 - 🌱 I’m Currently Learning "HOW TO LEARN THINGS" .
 - 💞️ I’m Looking to Collaborate On Make Better World .
 - 🤝 I’m looking for help with ...
-- 📫 How To Reach Me on [twitter](https://twitter.com/khashayarghajar) / [instagram](https://www.instagram.com/khashayarghajar) or just search for username "khashayarghajar" .
+- 📫 How To Reach Me On [Twitter](https://twitter.com/khashayarghajar) And [Instagram](https://www.instagram.com/khashayarghajar) Or Just Tap On [Mail](mailto:khashayarghajar7@gmail.com)
+
+
+<!--- 
+Just Search For Username "khashayarghajar" . 
+--->
 
 <!---
 khashayarghajar/khashayarghajar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
