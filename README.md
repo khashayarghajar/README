@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khashayarghajar .
-- 👀 I’m Interested In Everything .
-- 🌱 I’m Currently Learning "HOW TO LEARN" .
+- 👀 I’m Interested In Everything except php .
+- 🌱 I’m Currently Learning "HOW TO LEARN THINGS" .
 - 💞️ I’m Looking to Collaborate On Make Better World .
 - 📫 How To Reach Me on [twitter](https://twitter.com/khashayarghajar) / [instagram](https://www.instagram.com/khashayarghajar) or just search for username "khashayarghajar" .
 
