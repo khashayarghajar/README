@@ -1,5 +1,3 @@
-- this `./README.md` has all the definitions and descriptions .
-
 - 👋 Hi, I’m [@khashayarghajar](https://github.com/khashayarghajar) .
 - 👀 I’m Interested In Everything except [php](https://www.php.net) .
 - 🌱 I’m Currently Learning "HOW TO LEARN THINGS" .
@@ -10,6 +8,9 @@
 
 
 <!---  > text
+
+
+- this `./README.md` has all the definitions and descriptions .
 --->
 
 
