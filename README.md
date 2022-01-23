@@ -4,7 +4,7 @@
 - 💞️ I’m Looking to Collaborate On Make Better World .
 - 🤝 I’m looking for help with ...
 - 📫 This Is How To Reach Me On [Twitter](https://twitter.com/khashayarghajar) And [Instagram](https://www.instagram.com/khashayarghajar) Or Just Search For Username "khashayarghajar" .
-- ✉ for having a conversation send [Mail](mailto:khashayarghajar7@gmail.com) to me > 100% I Don't Answer
+- ✉ for having a conversation send [Mail](mailto:khashayarghajar7@gmail.com) to me < 100% I Don't Answer
 
 
 <!--- 
