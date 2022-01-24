@@ -1,6 +1,6 @@
-### HEY I’m [@khashayarghajar](https://github.com/khashayarghajar) .
+### HEY 
 
-<!--- - 👋 I’m [@khashayarghajar](https://github.com/khashayarghajar) . --->
+- 👋 I’m [@khashayarghajar](https://github.com/khashayarghajar) .
 - 👀 I’m Interested In Everything Except [php](https://www.php.net) .
 - 🌱 I’m Currently Learning "HOW TO LEARN THINGS" .
 - 😍 I'm In Love With [ubuntu](https://ubuntu.com/) .
