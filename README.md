@@ -18,8 +18,8 @@
 
 > [MIT](https://choosealicense.com/licenses/mit/) Licensed on `./LICENSE.md` .
 
-### CONTRIBUTING
-on `./CONTRIBUTING.md` .
+### CONTRIBUTION
+> Contribution Guidelines on `./CONTRIBUTING.md` .
 
 ### STATS 
 
