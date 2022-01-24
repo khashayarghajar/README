@@ -28,7 +28,7 @@
 
 ### LANGUAGES
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---  > text
 - this `./README.md` has all the definitions and descriptions .
 --->
