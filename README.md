@@ -11,6 +11,10 @@
 
 > pending...
 
+### LICENSE
+
+> [`MIT`](https://github.com/khashayarghajar/khashayarghajar/LICENSE.md)
+
 <!---  > text
 
 
