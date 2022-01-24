@@ -24,7 +24,7 @@
 
 ### STREAKS
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
 <!---  > text
 
 
