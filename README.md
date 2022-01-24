@@ -15,7 +15,7 @@
 
 ### LICENSE
 
-> [`MIT`](https://github.com/khashayarghajar/khashayarghajar/LICENSE.md)
+> [MIT](https://choosealicense.com/licenses/mit/) Licensed on `./LICENSE.md` .
 
 <!---  > text
 
