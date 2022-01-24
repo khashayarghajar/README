@@ -1,12 +1,16 @@
 ### Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+### Testing
+ 
+### Submitting changes
+- Always write a clear log message for your commits . One-line messages are fine for any changes .
 
-- Suggested Github Profile READMEs should be beautiful or stand out in some way.
-- Make an individual pull request for each suggestion.
-- Can suggest for different categories as well.
-- Start the Name with a capital.
-- Check your spelling and grammar.
+### Coding conventions
+- I indent using two spaces `soft tabs` .
 - Make sure your text editor is set to remove trailing whitespace.
+- Check your spelling and grammar.
+- Start the Name with a capital.
 
-Thank you for your suggestions!
+
+
+Thanks! ❤️
