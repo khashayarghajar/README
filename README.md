@@ -27,11 +27,10 @@
 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
 
-<!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
 
 
 
