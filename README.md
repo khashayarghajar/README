@@ -9,7 +9,7 @@
 
 ### Portfolio
 
-> *pending...*
+> pending...
 
 <!---  > text
 
