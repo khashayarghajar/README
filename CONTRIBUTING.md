@@ -6,6 +6,7 @@
 - Becoming a maintainer
 
 - - - -
+
 # 🐛 Bugs and issue Reports : #
 
 - __Great Reports tend to have__ :
@@ -85,10 +86,12 @@
 - - - -
 
 # 🛠 Testing #
--Make sure your code passes the tests .
--Make sure your code is properly commented and documented .
--The tests are located in `tests` .
--Please include a brief description of what the test does in the pull request.
+- Make sure your code passes the tests .
+- Make sure your code is properly commented and documented .
+- The tests are located in `tests` .
+- Please include a brief description of what the test does in the pull request.
+
+- - - -
 
 # 🖥 Coding conventions #
 - I indent using four spaces `soft tabs` .
@@ -98,6 +101,8 @@
 - Complexity is a factor going against security so do coding in simplicity .
 - Every code file that you write needs to have a comment at the top explaining exactly what it does and, if applicable, how to run it .
 - variables should have the most restrictive scope possible .
+
+- - - -
 
 # Local Development #
 - Create or edit `.env` file in the root of the directory
