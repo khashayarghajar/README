@@ -10,12 +10,15 @@
 ### Submitting changes
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
 
-### Report issues/bugs using GitHub's issues
+
+### issues/Bug Reports
+
+### using GitHub's issues
 - I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
 - Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
 > NOTE: only report an issue/bug if it hasn't opened yet .
 
-### Report issues/bugs using Mail service
+### using Mail service
 - contact me at `SOON` 
 - add repository as subject
 ```text
