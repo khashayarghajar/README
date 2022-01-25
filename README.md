@@ -12,9 +12,9 @@
 
 
 ### SUPPORT
-[![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar)
+[![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar)
 
-[![Bitcoin Logo](https://img.shields.io/badge/Bitcoin-000000?style=&logo=bitcoin&logoColor=whitee)](bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt)
+[![Bitcoin Logo](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=whitee)](bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt)
 
 
 ### PORTFOLIO
