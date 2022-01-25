@@ -5,9 +5,9 @@
 - add/remove/fix Tests  
 - Becoming a maintainer
 
-### Testing
+# Testing #
  
-### Submitting changes
+# Submitting changes #
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
 
 - - - -
