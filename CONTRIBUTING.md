@@ -109,11 +109,32 @@
 - - - -
 
 # Local Development #
-- Create or edit `.env` file in the root of the directory
-- root directory means the root of the repository on `https://github.com/khashayarghajar/repository` .
+- root of the repository on `https://github.com/khashayarghajar/repository` .
 - `.github` folder on `https://github.com/khashayarghajar/repository/.github` .
-- `doc` folder on `https://github.com/khashayarghajar/repository/doc` .
+- `docs` (alternatively `doc`) documentation folder on `https://github.com/khashayarghajar/repository/docs` .
+     - `.TOC` Table of contents on `https://github.com/khashayarghajar/repository/docs/TOC.md` .
+     - `.faq` Frequently asked questions on `https://github.com/khashayarghajar/repository/docs/faq.md` .
+     - `.misc` Miscellaneous information on on `https://github.com/khashayarghajar/repository/docs/misc.md` .
+     - `.usage` Getting started guide on `https://github.com/khashayarghajar/repository/docs/usage.md` .
+     - etc.
 - `.env` file on `https://github.com/khashayarghajar/repository/.env` .
+- `src` (alternatively `lib` or `app`) on `https://github.com/khashayarghajar/repository/src` .
+- `test` (alternatively `spec` or `tests`) on `https://github.com/khashayarghajar/repository/test` .
+     - Load and stress tests on `https://github.com/khashayarghajar/repository/test/benchmarks` .
+     - End-to-end, integration tests (alternatively `e2e`) on `https://github.com/khashayarghajar/repository/test/integration` .
+     - Unit tests on `https://github.com/khashayarghajar/repository/test/unit` .
+- `.config` local configuration
+- `build` (alternatively `dist`) contain all scripts related to build process on `https://github.com/khashayarghajar/repository/build` .
+- `deb` all your dependencies should be stored on `https://github.com/khashayarghajar/repository/deb` .
+- `res` static resources on `https://github.com/khashayarghajar/repository/res` .
+- `samples` code that supports the documentation on `https://github.com/khashayarghajar/repository/samples` .
+- `tools` (alternatively `utilities`) contain scripts to automate tasks (`.sh` or `.cmd`) on `https://github.com/khashayarghajar/repository/tools` .
+
+## Special Files ##
+   - `.gitignore` List of blobs for git to ignore on `https://github.com/khashayarghajar/repository/.gitignore` .
+   - `.gitattributes` define attributes on files on `https://github.com/khashayarghajar/repository/.gitattributes` .
+   - `.mailmap` tell git that duplicate names or emails in the history are actually the same person on `https://github.com/khashayarghajar/repository/.mailmap` .
+   - `.gitmodules` define submodules on `https://github.com/khashayarghajar/repository/.gitmodules` .
 
 - - - -
 
