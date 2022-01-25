@@ -87,9 +87,7 @@
 
 # 🛠 Testing #
 - test data and test codes are both accepted .
-- Make sure your code passes the tests .
-- Make sure your code is properly commented and documented .
-- The tests are located in `tests` .
+- only add or remove tests that are located in `./test` .
 - Please include a brief description of what the test does in the pull request .
 - After writing your new test, please check whether it works or not .
 - If you've added your test to an existing class, you will need to run the whole class and track the output .
@@ -105,6 +103,8 @@
 - Complexity is a factor going against security so do coding in simplicity .
 - Every code file that you write needs to have a comment at the top explaining exactly what it does and, if applicable, how to run it .
 - variables should have the most restrictive scope possible .
+- Make sure your code passes the tests .
+- Make sure your code is properly commented and documented .
 
 - - - -
 
