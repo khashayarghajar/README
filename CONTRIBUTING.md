@@ -26,7 +26,7 @@
 
     - Report an bugs/issues by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
 
-    > NOTE: only report an issue/bug if it hasn't opened yet .
+    > NOTE: Check if the issue has been fixed or opened .
 
     </details>
 
