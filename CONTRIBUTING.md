@@ -14,12 +14,19 @@
 
 ## issues/Bug Reports ##
 
-1. ### using GitHub's issues
+### Great Bug Reports tend to have : ###
+   - A quick summary and/or background
+   - Be specific!
+   - What actually happens
+   - What you expected would happen
+   > NOTE: possibly including why you think this might be happening, or stuff you tried that didn't work .
+
+1. ### using GitHub's issues ###
    - I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
    - Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
    > NOTE: only report an issue/bug if it hasn't opened yet .
 
-2. ### using Mail service
+2. ### using Mail service ###
    - contact me at `SOON` 
    - add repository as subject
    
@@ -28,9 +35,8 @@
         title : issues/bugs title
         description : describe the issues/bugs
         url : attach source file  url if possible
-        attachment : attach source file if possible
+        attachment : attach source file or snapshot, if possible .
    ```
-
 - - - -
 
 ### Coding conventions
