@@ -91,6 +91,7 @@
 - Make sure your code is properly commented and documented .
 - The tests are located in `tests` .
 - Please include a brief description of what the test does in the pull request.
+- After writing your new test, please check whether it works or not .
 
 - - - -
 
