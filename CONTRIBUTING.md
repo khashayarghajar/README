@@ -1,5 +1,5 @@
 # Contribution Guidelines #
-- Reporting a issue
+- Reporting a Bugs and issues .
 - Proposing new features
 - Submitting a fix
 - add/remove/fix Tests  
@@ -49,6 +49,35 @@
 
 - - - -
 
+# 💡 Feature Request #
+
+- __Great Feature Requests tend to have__ :
+     - A quick idea summary .
+     - What & why you wanted to add the specific feature .
+     - Additional Context like images, links to resources to implement the feature etc .
+
+
+- __you can Request Feature's by using__ :
+     
+     <details>
+     
+     <summary>  Mail service  </summary>
+
+    - contact me at `SOON` 
+
+    - add repository as subject
+
+    ```text
+               hi i'm username
+               title : Feature title
+               description : describe the idea
+               attachment : Additional Context .
+     ```
+
+    </details>
+
+- - - -
+
 # 🛠 Testing #
  
 # ♽ Submitting changes #
@@ -66,8 +95,10 @@
 ### Local Development
 - Create or edit `.env` file in the root of the directory
 
+- - - -
 
-### License
+# License #
+
 By contributing, you agree that your contributions will be licensed under its [MIT License](./LICENSE.md).
 
 
