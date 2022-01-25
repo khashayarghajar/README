@@ -10,10 +10,10 @@
 # 🐛 Bugs and issue Reports : #
 
 - __Great Reports tend to have__ :
-     - A quick summary and/or background
-     - Be specific!
-     - What actually happens
-     - What you expected would happen
+     - A quick summary and/or background .
+     - Be specific .
+     - What actually happens .
+     - What you expected would happen .
 > NOTE : possibly including why you think this might be happening, or stuff you tried that didn't work .
 
 - __you can report Bugs/issues by using__ :
@@ -34,9 +34,9 @@
 
     <summary>  Mail service  </summary>
 
-    - contact me at `SOON` 
+    - contact me at `SOON` .
 
-    - add repository as subject
+    > add repository as subject .
 
     ```text
                hi i'm username
