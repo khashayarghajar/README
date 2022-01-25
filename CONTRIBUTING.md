@@ -39,9 +39,10 @@
 
     ```text
                hi i'm username
-               title : Bugs/issues title
-               description : describe the Bugs/issues
-               url : attach source file  url if possible
+               os / version : include your operating system type and version number .
+               title : Bugs/issues title .
+               description : describe the Bugs/issues .
+               url : attach source file url, if possible .
                attachment : attach source file or snapshot, if possible .
      ```
 
@@ -84,8 +85,12 @@
 - - - -
 
 # 🛠 Testing #
+-Make sure your code passes the tests .
+-Make sure your code is properly commented and documented .
+-The tests are located in `tests` .
+-Please include a brief description of what the test does in the pull request.
 
-### Coding conventions
+# 🖥 Coding conventions #
 - I indent using four spaces `soft tabs` .
 - Make sure your text editor is set to remove trailing whitespace .
 - Check your spelling and grammar .
@@ -94,7 +99,7 @@
 - Every code file that you write needs to have a comment at the top explaining exactly what it does and, if applicable, how to run it .
 - variables should have the most restrictive scope possible .
 
-### Local Development
+# Local Development #
 - Create or edit `.env` file in the root of the directory
 
 - - - -
