@@ -92,7 +92,7 @@
 - If you've added your test to an existing class, you will need to run the whole class and track the output .
 - write some new tests doesn't means to delete the old ones .
 
-> NOTE : only add, remove or fix tests that are located in `./test` .
+> NOTE : only add/remove/fix tests that are located in `./test` .
 
 - - - -
 
