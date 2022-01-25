@@ -36,7 +36,7 @@
 
     - contact me at `SOON` .
 
-    > add repository as subject .
+    - add repository as subject .
 
     ```text
                hi i'm username
@@ -112,24 +112,24 @@
 # Local Development #
 - root of the repository on `https://github.com/khashayarghajar/repository` .
 - `.github` folder on `https://github.com/khashayarghajar/repository/.github` .
-- `docs` (alternatively `doc`) documentation folder on `https://github.com/khashayarghajar/repository/docs` .
+- `docs` ( alternatively `doc` ) documentation folder on `https://github.com/khashayarghajar/repository/docs` .
      - `.TOC` Table of contents on `https://github.com/khashayarghajar/repository/docs/TOC.md` .
      - `.faq` Frequently asked questions on `https://github.com/khashayarghajar/repository/docs/faq.md` .
      - `.misc` Miscellaneous information on on `https://github.com/khashayarghajar/repository/docs/misc.md` .
      - `.usage` Getting started guide on `https://github.com/khashayarghajar/repository/docs/usage.md` .
      - etc.
 - `.env` file on `https://github.com/khashayarghajar/repository/.env` .
-- `src` (alternatively `lib` or `app`) on `https://github.com/khashayarghajar/repository/src` .
-- `test` (alternatively `spec` or `tests`) on `https://github.com/khashayarghajar/repository/test` .
+- `src` ( alternatively `lib` or `app` ) on `https://github.com/khashayarghajar/repository/src` .
+- `test` ( alternatively `spec` or `tests` ) on `https://github.com/khashayarghajar/repository/test` .
      - Load and stress tests on `https://github.com/khashayarghajar/repository/test/benchmarks` .
-     - End-to-end, integration tests (alternatively `e2e`) on `https://github.com/khashayarghajar/repository/test/integration` .
+     - End-to-end, integration tests ( alternatively `e2e` ) on `https://github.com/khashayarghajar/repository/test/integration` .
      - Unit tests on `https://github.com/khashayarghajar/repository/test/unit` .
 - `.config` local configuration on `https://github.com/khashayarghajar/repository/.config` .
-- `build` (alternatively `dist`) contain all scripts related to build process on `https://github.com/khashayarghajar/repository/build` .
+- `build` ( alternatively `dist` ) contain all scripts related to build process on `https://github.com/khashayarghajar/repository/build` .
 - `deb` all your dependencies should be stored on `https://github.com/khashayarghajar/repository/deb` .
 - `res` static resources on `https://github.com/khashayarghajar/repository/res` .
 - `samples` code that supports the documentation on `https://github.com/khashayarghajar/repository/samples` .
-- `tools` (alternatively `utilities`) contain scripts to automate tasks (`.sh` or `.cmd`) on `https://github.com/khashayarghajar/repository/tools` .
+- `tools` ( alternatively `utilities` ) contain scripts to automate tasks ( `.sh` or `.cmd` ) on `https://github.com/khashayarghajar/repository/tools` .
 
 ## Special Files ##
    - `.gitignore` List of blobs for git to ignore on `https://github.com/khashayarghajar/repository/.gitignore` .
@@ -141,4 +141,4 @@
 
 # License #
 
-By contributing, you agree that your contributions will be licensed under its [MIT License](./LICENSE.md).
+By contributing, you agree that your contributions will be licensed under its [MIT License](./LICENSE.md) .
