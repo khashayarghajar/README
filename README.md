@@ -6,7 +6,7 @@
 - 😍 I'm In Love With [ubuntu](https://ubuntu.com/) .
 - 🌎 I’m Looking to Collaborate On Make a Better World .
 - 🤝 I’m Looking For Help With ...
-- 📫 This Is How To Reach Me On [https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/khashayarghajar) & [Instagram](https://www.instagram.com/khashayarghajar) Or Just Search For Username `khashayarghajar` .
+- 📫 This Is How To Reach Me On [Twitter](https://twitter.com/khashayarghajar) & [Instagram](https://www.instagram.com/khashayarghajar) Or Just Search For Username `khashayarghajar` .
 - ✉ For Having a Conversation Send [Mail](mailto:khashayarghajar7@gmail.com) To Me "100% I Don't Answer" .
 - ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English `Capitalization Rules` .
 
