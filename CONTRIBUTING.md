@@ -8,7 +8,7 @@
  
 ### Submitting changes
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
-- Create a edit `.env` file in the root of the directory
+- Create or edit `.env` file in the root of the directory
 
 ### Coding conventions
 - I indent using four spaces `soft tabs` .
