@@ -4,7 +4,6 @@
 - Submitting a fix .
 - add, remove, fix Tests .
 - Becoming a maintainer .
-- License
 
 - - - -
 
