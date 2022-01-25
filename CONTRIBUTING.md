@@ -16,10 +16,14 @@
 > NOTE: only report an issue/bug if it hasn't opened yet .
 
 ### Report issues/bugs using Mail service
-- contact me at <!--- khashayarghajar7@gmail.com --->
-- 
+- contact me at `SOON` 
+- add repository as subject
 ```text
-      repository
+     hi i'm username
+     title : issues/bugs title
+     description : describe the issues/bugs
+     url : attach source file  url if possible
+     attachment : attach source file if possible
 ```
 
 ### Coding conventions
