@@ -6,16 +6,28 @@
 - 😍 I'm In Love With [![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/) .
 - 🌎 I’m Looking to Collaborate On Make a Better World .
 - 🤝 I’m Looking For Help With ...
-- 📫 This Is How To Reach Me On [![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khashayarghajar) & [![Instagram Logo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khashayarghajar) Or Just Search For Username `khashayarghajar` .
+- 📫 This Is How To Reach Me On [![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khashayarghajar) & [![Instagram Logo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khashayarghajar) & [![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar) Or Just Search For Username `khashayarghajar` .
 - ✉ For Having a Conversation Send [Mail](mailto:khashayarghajar7@gmail.com) To Me "100% I Don't Answer" .
 - ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English `Capitalization Rules` .
 
 
-### SUPPORT ME ON [![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar)
+### SUPPORT
 
-OR BTC ```text  bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt  ```
-<!-- [![Bitcoin Logo](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white)](bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt) -->
+BTC :
 
+```text
+
+bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt
+
+```
+
+ETH :
+
+```text
+
+0xb89E27D96030D250f58dbAB50C6165513f36B0D9
+
+```
 
 ### PORTFOLIO
 
