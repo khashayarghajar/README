@@ -87,11 +87,12 @@
 
 # 🛠 Testing #
 - test data and test codes are both accepted .
-- only add or remove tests that are located in `./test` .
 - Please include a brief description of what your new or fixed test does in the pull request .
 - After writing your new test, please check whether it works or not .
 - If you've added your test to an existing class, you will need to run the whole class and track the output .
 - write some new tests doesn't means delete the old ones
+
+> only add or remove tests that are located in `./test` .
 
 - - - -
 
