@@ -2,7 +2,7 @@
 - Reporting a Bugs or issues .
 - Request new features .
 - Submitting a fix .
-- add, remove, fix Tests .
+- add/remove/fix Tests .
 - Becoming a maintainer .
 
 - - - -
