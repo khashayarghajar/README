@@ -1,8 +1,8 @@
 # ⚠️ Contribution Guidelines #
-- Reporting a Bugs and issues .
+- Reporting a Bugs or issues .
 - Request new features .
 - Submitting a fix .
-- add,remove,fix Tests .
+- add, remove, fix Tests .
 - Becoming a maintainer .
 
 - - - -
@@ -90,7 +90,7 @@
 - Please include a brief description of what your new or fixed test does in the pull request .
 - After writing your new test, please check whether it works or not .
 - If you've added your test to an existing class, you will need to run the whole class and track the output .
-- write some new tests doesn't means delete the old ones
+- write some new tests doesn't means to delete the old ones .
 
 > NOTE : only add, remove or fix tests that are located in `./test` .
 
