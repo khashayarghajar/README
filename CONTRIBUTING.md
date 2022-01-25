@@ -110,9 +110,10 @@
 
 # Local Development #
 - Create or edit `.env` file in the root of the directory
-- root directory means the root of the repository
-- `.github` folder
-- `docs` folder
+- root directory means the root of the repository on `https://github.com/khashayarghajar/repository` .
+- `.github` folder on `https://github.com/khashayarghajar/repository/.github` .
+- `doc` folder on `https://github.com/khashayarghajar/repository/doc` .
+- `.env` file on `https://github.com/khashayarghajar/repository/.env` .
 
 - - - -
 
