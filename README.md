@@ -1,4 +1,4 @@
-### HEY 
+### HEY ###
 
 - 👋 I’m [@khashayarghajar](https://github.com/khashayarghajar) .
 - 👀 I’m Interested In Everything Except [php](https://www.php.net) .
@@ -10,8 +10,9 @@
 - ✉ For Having a Conversation Send [Mail](mailto:khashayarghajar7@gmail.com) To Me "100% I Don't Answer" .
 - ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English `Capitalization Rules` .
 
+----
 
-### SUPPORT
+### 💲 SUPPORT : ###
 
   BTC :
 
@@ -28,32 +29,31 @@
   0xb89E27D96030D250f58dbAB50C6165513f36B0D9
 
   ```
-
-### PORTFOLIO
+----
+  
+### 💼 PORTFOLIO : ###
 
    > pending...
 
-### LICENSE
+----
+
+### 📝 LICENSE : ###
 
    > [MIT](https://choosealicense.com/licenses/mit/) Licensed on `./LICENSE.md` .
 
-### CONTRIBUTION
+----
+
+### 🤝 CONTRIBUTION : ###
    > Contribution Guidelines on `./CONTRIBUTING.md` .
 
-### SECURITY
-   `./SECURITY.md`
+----
 
-### STATS 
+### 🔐 SECURITY : ###
+   > security Guidelines on `./SECURITY.md`
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+----
 
-### STREAKS
-
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
-
-### LANGUAGE
-
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" /> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true" />
 <!-- 
 ```text
 No Activity tracked this Week
