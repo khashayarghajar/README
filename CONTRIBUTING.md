@@ -110,6 +110,9 @@
 
 # Local Development #
 - Create or edit `.env` file in the root of the directory
+- root directory means the root of the repository
+- `.github` folder
+- `docs` folder
 
 - - - -
 
