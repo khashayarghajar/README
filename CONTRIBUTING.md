@@ -1,6 +1,6 @@
 # Contribution Guidelines #
 - Reporting a Bugs and issues .
-- Proposing new features
+- Proposing new features .
 - Submitting a fix
 - add/remove/fix Tests  
 - Becoming a maintainer
@@ -78,10 +78,11 @@
 
 - - - -
 
-# 🛠 Testing #
- 
 # ♽ Submitting changes #
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
+
+
+# 🛠 Testing #
 
 ### Coding conventions
 - I indent using four spaces `soft tabs` .
