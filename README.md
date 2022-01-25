@@ -8,7 +8,7 @@
 - 🤝 I’m Looking For Help With ...
 - 📫 This Is How To Reach Me On [Twitter](https://twitter.com/khashayarghajar) & [Instagram](https://www.instagram.com/khashayarghajar) Or Just Search For Username `khashayarghajar` .
 - ✉ For Having a Conversation Send [Mail](mailto:khashayarghajar7@gmail.com) To Me "100% I Don't Answer" .
-- ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English Capitalization Rules .
+- ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English `Capitalization Rules` .
 
 ### PORTFOLIO
 
