@@ -11,14 +11,14 @@
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
 
 - - - -
-# 🐛 issues/Bug Reports #
+# 🐛 Bugs and issue Reports : #
 
-## Great Bug Reports tend to have :
-- A quick summary and/or background
-- Be specific!
-- What actually happens
-- What you expected would happen
-> NOTE: possibly including why you think this might be happening, or stuff you tried that didn't work .
+## Great Reports tend to have :
+   - A quick summary and/or background
+   - Be specific!
+   - What actually happens
+   - What you expected would happen
+   > NOTE: possibly including why you think this might be happening, or stuff you tried that didn't work .
 
 ## you can report issues/Bugs by using :
 
@@ -51,6 +51,7 @@
  ```
         
 </details>
+
 - - - -
 
 ### Coding conventions
