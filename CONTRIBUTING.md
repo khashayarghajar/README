@@ -91,7 +91,7 @@
 - Please include a brief description of what the test does in the pull request .
 - After writing your new test, please check whether it works or not .
 - If you've added your test to an existing class, you will need to run the whole class and track the output .
-- write some new tests means delete the old ones .
+- write some new tests doesn't means delete the old ones
 
 - - - -
 
