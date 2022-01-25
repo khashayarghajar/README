@@ -86,6 +86,7 @@
 - - - -
 
 # 🛠 Testing #
+- test data and test codes are both accepted .
 - Make sure your code passes the tests .
 - Make sure your code is properly commented and documented .
 - The tests are located in `tests` .
