@@ -13,47 +13,47 @@
 
 ### SUPPORT
 
-BTC :
+  BTC :
 
-```text
+  ```text
 
-bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt
+  bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt
 
-```
+  ```
 
-ETH :
+  ETH :
 
-```text
+  ```text
 
-0xb89E27D96030D250f58dbAB50C6165513f36B0D9
+  0xb89E27D96030D250f58dbAB50C6165513f36B0D9
 
-```
+  ```
 
 ### PORTFOLIO
 
-> pending...
+   > pending...
 
 ### LICENSE
 
-> [MIT](https://choosealicense.com/licenses/mit/) Licensed on `./LICENSE.md` .
+   > [MIT](https://choosealicense.com/licenses/mit/) Licensed on `./LICENSE.md` .
 
 ### CONTRIBUTION
-> Contribution Guidelines on `./CONTRIBUTING.md` .
+   > Contribution Guidelines on `./CONTRIBUTING.md` .
 
 ### SECURITY
-`./SECURITY.md`
+   `./SECURITY.md`
 
 ### STATS 
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 ### STREAKS
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
 
 ### LANGUAGE
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true" />
 <!-- 
 ```text
 No Activity tracked this Week
