@@ -124,7 +124,7 @@
      - Load and stress tests on `https://github.com/khashayarghajar/repository/test/benchmarks` .
      - End-to-end, integration tests (alternatively `e2e`) on `https://github.com/khashayarghajar/repository/test/integration` .
      - Unit tests on `https://github.com/khashayarghajar/repository/test/unit` .
-- `.config` local configuration
+- `.config` local configuration on `https://github.com/khashayarghajar/repository/.config` .
 - `build` (alternatively `dist`) contain all scripts related to build process on `https://github.com/khashayarghajar/repository/build` .
 - `deb` all your dependencies should be stored on `https://github.com/khashayarghajar/repository/deb` .
 - `res` static resources on `https://github.com/khashayarghajar/repository/res` .
