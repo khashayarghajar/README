@@ -11,34 +11,46 @@
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
 
 - - - -
+# 🐛 issues/Bug Reports #
 
-# issues/Bug Reports #
+## Great Bug Reports tend to have :
+- A quick summary and/or background
+- Be specific!
+- What actually happens
+- What you expected would happen
+> NOTE: possibly including why you think this might be happening, or stuff you tried that didn't work .
 
-## Great Bug Reports tend to have : ##
-   - A quick summary and/or background
-   - Be specific!
-   - What actually happens
-   - What you expected would happen
-   > NOTE: possibly including why you think this might be happening, or stuff you tried that didn't work .
+## you can report issues/Bugs by using :
 
-## you can report issues/Bugs by using : ##
+<details>
+        
+<summary>  GitHub's issues  </summary>
+        
+- I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
+        
+- Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
+        
+> NOTE: only report an issue/bug if it hasn't opened yet .
+        
+</details>
 
-   1. ### GitHub's issues ###
-      - I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
-      - Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
-      > NOTE: only report an issue/bug if it hasn't opened yet .
+<details>
+        
+<summary>  Mail service  </summary>
+        
+- contact me at `SOON` 
+        
+- add repository as subject
 
-   2. ### Mail service ###
-      - contact me at `SOON` 
-      - add repository as subject
-
-      ```text
+```text
            hi i'm username
            title : issues/bugs title
            description : describe the issues/bugs
            url : attach source file  url if possible
            attachment : attach source file or snapshot, if possible .
-      ```
+ ```
+        
+</details>
 - - - -
 
 ### Coding conventions
