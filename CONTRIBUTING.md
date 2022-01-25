@@ -10,24 +10,28 @@
 ### Submitting changes
 - Always write a clear log message for your commits . One-line messages are fine for any changes .
 
+- - - -
 
-### issues/Bug Reports
+## issues/Bug Reports ##
 
-### using GitHub's issues
-- I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
-- Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
-> NOTE: only report an issue/bug if it hasn't opened yet .
+1. ### using GitHub's issues
+   - I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
+   - Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
+   > NOTE: only report an issue/bug if it hasn't opened yet .
 
-### using Mail service
-- contact me at `SOON` 
-- add repository as subject
-```text
-     hi i'm username
-     title : issues/bugs title
-     description : describe the issues/bugs
-     url : attach source file  url if possible
-     attachment : attach source file if possible
-```
+2. ### using Mail service
+   - contact me at `SOON` 
+   - add repository as subject
+   
+   ```text
+        hi i'm username
+        title : issues/bugs title
+        description : describe the issues/bugs
+        url : attach source file  url if possible
+        attachment : attach source file if possible
+   ```
+
+- - - -
 
 ### Coding conventions
 - I indent using four spaces `soft tabs` .
