@@ -10,6 +10,13 @@
 - ✉ For Having a Conversation Send [Mail](mailto:khashayarghajar7@gmail.com) To Me "100% I Don't Answer" .
 - ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English `Capitalization Rules` .
 
+
+### SUPPORT
+[![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar)
+
+[![Bitcoin Logo](https://img.shields.io/badge/Bitcoin-000000?style=&logo=bitcoin&logoColor=whitee)](bc1qu2xnhz3h3fkuws7dnajmzpghd9k8f96lgtrcyt)
+
+
 ### PORTFOLIO
 
 > pending...
