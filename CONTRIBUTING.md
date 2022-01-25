@@ -1,9 +1,9 @@
 # Contribution Guidelines #
 - Reporting a Bugs and issues .
-- Proposing new features .
-- Submitting a fix
-- add/remove/fix Tests  
-- Becoming a maintainer
+- Request new features .
+- Submitting a fix .
+- add/remove/fix Tests .
+- Becoming a maintainer .
 
 - - - -
 
