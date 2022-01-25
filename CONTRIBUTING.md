@@ -21,22 +21,24 @@
    - What you expected would happen
    > NOTE: possibly including why you think this might be happening, or stuff you tried that didn't work .
 
-1. ### using GitHub's issues ###
-   - I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
-   - Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
-   > NOTE: only report an issue/bug if it hasn't opened yet .
+###you can report issues/Bug by using : ###
 
-2. ### using Mail service ###
-   - contact me at `SOON` 
-   - add repository as subject
-   
-   ```text
-        hi i'm username
-        title : issues/bugs title
-        description : describe the issues/bugs
-        url : attach source file  url if possible
-        attachment : attach source file or snapshot, if possible .
-   ```
+   1. ### using GitHub's issues ###
+      - I use `GitHub issues` to track public issues/bugs. on `https://github.com/khashayarghajar/repository/issues` .
+      - Report an issues/bugs by `opening a new issue` on `https://github.com/khashayarghajar/repository/issues/new/choose` .
+      > NOTE: only report an issue/bug if it hasn't opened yet .
+
+   2. ### using Mail service ###
+      - contact me at `SOON` 
+      - add repository as subject
+
+      ```text
+           hi i'm username
+           title : issues/bugs title
+           description : describe the issues/bugs
+           url : attach source file  url if possible
+           attachment : attach source file or snapshot, if possible .
+      ```
 - - - -
 
 ### Coding conventions
