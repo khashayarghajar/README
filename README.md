@@ -60,7 +60,20 @@
 
 ----
 
-[![khashayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="50em" align="center" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="50em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
+</a>
+
+
+
+
+
+
+<!-- [![khashayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
@@ -69,7 +82,7 @@
 ----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 <!-- 
 ```text
