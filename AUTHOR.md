@@ -23,9 +23,7 @@
   
 ```
 
-<code>
-
-    <script type='application/ld+json'> 
+`<script type='application/ld+json'> 
     {
       "@context": "http://www.schema.org",
       "@type": "person",
@@ -43,6 +41,4 @@
         "https://Comingsoon.com"
       ]  
     }
-   </script>
-
-</code>
+</script>`
