@@ -60,15 +60,17 @@
 
 ----
 
-<img height="100%" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+[![khashayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
-<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
+[![streak's](https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
-<img height="calc(100% - 10px)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- 
 ```text
 No Activity tracked this Week
