@@ -1,4 +1,4 @@
-# AUTHOR #
+# AUTHOR : #
 
 ## json-ld : ##
 
@@ -54,3 +54,9 @@
   </section>
 
 ```
+
+----
+
+digital signature :
+
+![An old rock in the desert](/assets/images/shiprock.jpg)
