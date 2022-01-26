@@ -34,9 +34,9 @@
 
 ----
 
-### AUTHOR ###
+### 🗒 AUTHOR : ###
 
-  > info on `./AUTHOR.md`
+  > author info on `./AUTHOR.md`
 
 ----
 
