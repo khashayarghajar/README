@@ -34,7 +34,9 @@
     my givenName is
     <span itemprop="givenName">khashayar</span>,
     and my familyName is
-    <span itemprop="name">ghajar</span>,
+    <span itemprop="familyName">ghajar</span>,
+    my gender is 
+    <span itemprop="gender">male</span>,
     I was born 
     <span itemprop="birthDate">2000-08-01</span>,
     You can visit my homepage at 
