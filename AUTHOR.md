@@ -1,6 +1,6 @@
 # AUTHOR #
 
-## json-ld ##
+## json-ld : ##
 
 ```json-ld
   
@@ -29,7 +29,7 @@
 
 ----
 
-## microdata ##
+## microdata : ##
 
 ```microdata
 
