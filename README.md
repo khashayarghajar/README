@@ -60,29 +60,29 @@
 
 ----
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50em" align="center" src="https://github-readme-stats.vercel.app/api?username=khashayarghajar&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true" />
-</a>
-
-
-
-
-
-
-<!-- [![khashayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khashayarghajar)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
-[![streak's](https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khashayarghajar&repo=khashayarghajar)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashayarghajar)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khashayarghajar)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+[![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=khashayarghajar&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+
+
+
 
 <!-- 
 ```text
