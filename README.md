@@ -40,6 +40,12 @@
 
 ----
 
+### 🗒 CODE OF CONDUCT : ###
+
+  > code of conduct on `./CODE_OF_CONDUCT.md`
+
+----
+
 ### 💲 SUPPORT : ###
 
   BTC :
