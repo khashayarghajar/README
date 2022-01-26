@@ -37,7 +37,7 @@
     <span itemprop="familyName">ghajar</span>,
     my gender is 
     <span itemprop="gender">male</span>,
-    I was born 
+    and I was born 
     <span itemprop="birthDate">2000-08-01</span>,
     You can visit my homepage at 
     <a href="https://Comingsoon.com" itemprop="url">www.Comingsoon.com</a>,
