@@ -59,4 +59,4 @@
 
 digital signature :
 
-![An old rock in the desert](/assets/images/shiprock.jpg)
+![An old rock in the desert](/8dff398f37deebbbde4a8381db829e5bacc52280fa92e64451982d5203552d778b949da877f388ac13bd69e61bc0e2d5b10d6645507ccbc4b5b1f8e7a2ea08bd.png)
