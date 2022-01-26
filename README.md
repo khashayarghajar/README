@@ -34,6 +34,12 @@
 
 ----
 
+### AUTHOR ###
+
+  > info on `./AUTHOR.md`
+
+----
+
 ### 💲 SUPPORT : ###
 
   BTC :
