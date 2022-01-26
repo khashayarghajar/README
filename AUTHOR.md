@@ -1,4 +1,7 @@
 # AUTHOR #
+
+## json-ld ##
+
 ```json-ld
   
    <script type='application/ld+json'> 
@@ -25,6 +28,8 @@
 ```
 
 ----
+
+## microdata ##
 
 ```microdata
 
