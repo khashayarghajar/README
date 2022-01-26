@@ -30,7 +30,11 @@
 
   <section itemscope itemtype="http://schema.org/Person"> 
     Hello, my name is 
-    <span itemprop="name">khashayar ghajar</span>, 
+    <span itemprop="name">khashayar ghajar</span>,
+    my givenName is
+    <span itemprop="givenName">khashayar</span>,
+    and my familyName is
+    <span itemprop="name">ghajar</span>,
     I was born 
     <span itemprop="birthDate">2000-08-01</span>,
     You can visit my homepage at 
