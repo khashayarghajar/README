@@ -6,12 +6,18 @@
 - 😍 I'm In Love With [![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/) .
 - 🌎 I’m Looking to Collaborate On Make a Better World .
 - 🤝 I’m Looking For Help With ...
-- 📫 This Is How To Reach Me On [![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khashayarghajar) & [![Instagram Logo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khashayarghajar) & [![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar) Or Just Search For Username `khashayarghajar` .
 - ✉ For Having a Conversation Send [Mail](mailto:khashayarghajar7@gmail.com) To Me "100% I Don't Answer" .
 - ⚡ Fun Fact: I’m Big Fan Of Ehe `UPPER-CASE` letters & Hate English `Capitalization Rules` .
 
 ----
-  
+
+### 🌐 SOCIALS : ###
+- [![Twitter Logo](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/khashayarghajar)
+- [![Instagram Logo](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khashayarghajar)
+- [![patreon Logo](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/Khashayarghajar)
+
+----
+
 ### 💼 PORTFOLIO : ###
 
    > pending...
@@ -82,7 +88,11 @@
 
 ----
 
+### 📝 QUOTE : ###
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+----
 
 
 
@@ -112,3 +122,4 @@ Just Search For Username "khashayarghajar" .
 khashayarghajar/khashayarghajar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
